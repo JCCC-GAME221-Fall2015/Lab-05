@@ -18,33 +18,19 @@ Platform assembly: C:\Unity Projects\Lab-05\BoehningNathanLab05\Built\Built_Data
 Loading C:\Unity Projects\Lab-05\BoehningNathanLab05\Built\Built_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Unity Projects\Lab-05\BoehningNathanLab05\Built\Built_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading C:\Unity Projects\Lab-05\BoehningNathanLab05\Built\Built_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-Platform assembly: C:\Unity Projects\Lab-05\BoehningNathanLab05\Built\Built_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Unity Projects\Lab-05\BoehningNathanLab05\Built\Built_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Unity Projects\Lab-05\BoehningNathanLab05\Built\Built_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Unity Projects\Lab-05\BoehningNathanLab05\Built\Built_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Unity Projects\Lab-05\BoehningNathanLab05\Built\Built_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.056 seconds
+- Completed reload, in  0.115 seconds
 desktop: 2560x1440 59Hz; virtual: 6400x1440 at -1920,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
 Platform assembly: C:\Unity Projects\Lab-05\BoehningNathanLab05\Built\Built_Data\Managed\System.dll (this message is harmless)
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 11e4 -> priority: 1 
-  Thread -> id: 2ba0 -> priority: 1 
+  Thread -> id: a9c -> priority: 1 
+  Thread -> id: 1cc8 -> priority: 1 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.359817 ms
+UnloadTime: 0.334763 ms
 
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 391.
-Total: 0.376420 ms (FindLiveObjects: 0.074861 ms CreateObjectMapping: 0.021733 ms MarkObjects: 0.267750 ms  DeleteObjects: 0.011470 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.618210 ms
-Multiple NetworkManagers detected in the scene. Only one NetworkManager can exist at a time. The duplicate NetworkManager will not be used.
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
-
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 361.
-Total: 0.175682 ms (FindLiveObjects: 0.015998 ms CreateObjectMapping: 0.013583 ms MarkObjects: 0.137648 ms  DeleteObjects: 0.008150 ms)
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 390.
+Total: 0.200133 ms (FindLiveObjects: 0.029280 ms CreateObjectMapping: 0.013583 ms MarkObjects: 0.150024 ms  DeleteObjects: 0.006942 ms)
 
