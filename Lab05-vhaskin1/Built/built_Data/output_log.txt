@@ -1,0 +1,50 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 Ti (ID=0x1380)
+    Vendor:   NVIDIA
+    VRAM:     1993 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\svc-student\Desktop\Lab-05\Lab05-vhaskin1\Built\built_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\svc-student\Desktop\Lab-05\Lab05-vhaskin1\Built\built_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\svc-student\Desktop\Lab-05\Lab05-vhaskin1\Built\built_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\svc-student\Desktop\Lab-05\Lab05-vhaskin1\Built\built_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\svc-student\Desktop\Lab-05\Lab05-vhaskin1\Built\built_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\svc-student\Desktop\Lab-05\Lab05-vhaskin1\Built\built_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\svc-student\Desktop\Lab-05\Lab05-vhaskin1\Built\built_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\svc-student\Desktop\Lab-05\Lab05-vhaskin1\Built\built_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\svc-student\Desktop\Lab-05\Lab05-vhaskin1\Built\built_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\svc-student\Desktop\Lab-05\Lab05-vhaskin1\Built\built_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\svc-student\Desktop\Lab-05\Lab05-vhaskin1\Built\built_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\svc-student\Desktop\Lab-05\Lab05-vhaskin1\Built\built_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\svc-student\Desktop\Lab-05\Lab05-vhaskin1\Built\built_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\svc-student\Desktop\Lab-05\Lab05-vhaskin1\Built\built_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\svc-student\Desktop\Lab-05\Lab05-vhaskin1\Built\built_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\svc-student\Desktop\Lab-05\Lab05-vhaskin1\Built\built_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.064 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\svc-student\Desktop\Lab-05\Lab05-vhaskin1\Built\built_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\svc-student\Desktop\Lab-05\Lab05-vhaskin1\Built\built_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 20c0 -> priority: 1 
+  Thread -> id: 1804 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.350713 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 300.
+Total: 0.165556 ms (FindLiveObjects: 0.013871 ms CreateObjectMapping: 0.010554 ms MarkObjects: 0.135098 ms  DeleteObjects: 0.005729 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.889299 ms
+Multiple NetworkManagers detected in the scene. Only one NetworkManager can exist at a time. The duplicate NetworkManager will not be used.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 269.
+Total: 0.162540 ms (FindLiveObjects: 0.012062 ms CreateObjectMapping: 0.010856 ms MarkObjects: 0.132987 ms  DeleteObjects: 0.006031 ms)
+
